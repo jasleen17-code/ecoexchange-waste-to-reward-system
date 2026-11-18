@@ -32,8 +32,5 @@ EcoExchange is an AI-powered platform that encourages responsible waste disposal
 ### Team
 **EcoAI Tech**
 
-### Team Member
-**Jasleen Kaur**
-
 ### Project Vision
 Turning waste into opportunities through AI-driven sustainability solutions.
